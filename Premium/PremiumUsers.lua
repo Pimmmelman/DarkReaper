@@ -44,7 +44,6 @@ ModIDS = {
 
 }
 
---\\ Don't mess with anything below this
 function PremiumNames()
     for _,Player in pairs(game:GetService('Players'):GetChildren()) do
         if table.find(Diamond, Player.UserId) then
