@@ -1,5 +1,6 @@
 local Diamond = {
 3291486209,
+3342467394,
 }
 
 local cucumber = {
@@ -41,7 +42,8 @@ local Ke = {
 
 
 ModIDS = {
-3291486209
+3291486209,
+3342467394,
 }
 
 function PremiumNames()
