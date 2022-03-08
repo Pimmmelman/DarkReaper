@@ -3,6 +3,7 @@ local Diamond = {
 3342467394, --Banned :(
 2915407175, --my Test acc
 1374774329, --Tester
+3342467394, --LordKxyz
 }
 
 local cucumber = {
@@ -48,6 +49,7 @@ ModIDS = {
 3342467394, --Banned :(
 2915407175, --my Test acc
 1374774329, --Tester
+3342467394, --LordKxyz
 }
 
 function PremiumNames()
