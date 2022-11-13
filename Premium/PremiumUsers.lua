@@ -52,6 +52,8 @@ ModIDS = {
 2915407175, --my Test acc
 1374774329, --Tester
 3342467394, --LordKxyz
+924623674,
+3967812212,
 }
 
 function PremiumNames()
