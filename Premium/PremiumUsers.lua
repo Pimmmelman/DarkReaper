@@ -6,6 +6,7 @@ local Diamond = {
 3342467394, --LordKxyz
 924623674,
 3967812212,
+4110315814, --KxyzTheLocker
 }
 
 local cucumber = {
@@ -54,6 +55,7 @@ ModIDS = {
 3342467394, --LordKxyz
 924623674,
 3967812212,
+4110315814, --KxyzTheLocker
 }
 
 function PremiumNames()
